@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Raha Moraffah"
-  avatar           : "rmoraffa.github.io/files/profile.png"
+  avatar           : "https://rmoraffa.github.io/files/profile.png"
   bio              : "PhD Candidate, School of Computing and Augmented Intelligence, Arizona State University"
   location         : "Tempe, Az"
   cv               : "https://rmoraffa.github.io/files/CV_RM.pdf"
