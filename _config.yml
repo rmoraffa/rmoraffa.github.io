@@ -84,7 +84,7 @@ author:
   avatar           : "rmoraffa.github.io/files/profile.png"
   bio              : "PhD Candidate, School of Computing and Augmented Intelligence, Arizona State University"
   location         : "Tempe, Az"
-  cv               : "files/CV_RM.pdf"
+  cv               : "https://rmoraffa.github.io/files/CV_RM.pdf"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KwWQgaUAAAAJ&view_op=list_works&sortby=pubdate"
