@@ -19,11 +19,10 @@ I am a final-year Ph.D. candidat at the [DMML lab](https://dmml.asu.edu/) at the
 
 Recent News
 ======
-- [February 2024] Honored to recieve the SCAI Doctoral Fellowship for Excellent Research.
-- [January 2024] 1 paper accepted to PAKDD 2024.
-- [January 2024] 1 paper accepted to EACL 2024.
+- [Feb 2024] I received the SCAI Doctoral Fellowship for Excellent Research.
+- [Jan 2024] 1 paper accepted to PAKDD 2024.
+- [Jan 2024] 1 paper accepted to EACL 2024.
 - [Dec 2023] 1 paper accepted to AAAI ReLM 2024.
-- [Dec 2023] Invited to give a talk on "Causal Feature Selection in the Era of Big Data" at the Society for Industrial and Applied Mathematics.
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kashuyamazk" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
