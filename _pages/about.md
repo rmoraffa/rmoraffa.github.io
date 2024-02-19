@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a final-year Ph.D. candidat at the [DMML lab](https://dmml.asu.edu/) at the Arizona State University, where I am fortunate to be advised by Dr. [Huan Liu](https://www.public.asu.edu/~huanliu/). My research centers on the development of pragmatic responsible machine learning algorithms, emphasizing security, robustness, and causality. I am fervent about integrating a causality perspective into responsible ML practices and crafting causal notions of responsible ML. 
+I am a final-year Ph.D. candidate at the [DMML lab](https://dmml.asu.edu/) at Arizona State University, where I am fortunate to be advised by Dr. [Huan Liu](https://www.public.asu.edu/~huanliu/). My research centers on the development of responsible machine learning algorithms, emphasizing security, robustness, and causality. I am fervent about integrating a causality perspective into responsible ML practices and crafting causal notions of responsible ML. 
 
 
 <p style="color:red;">I am currently on job market for Assistant Professor Position. Please Check out <a href="/files/CV_RM.pdf">my CV</a> and feel free to contact me if you are interested!</p>
