@@ -13,12 +13,12 @@ About Me
 I am a final-year Ph.D. candidate at the [DMML lab](https://dmml.asu.edu/) at Arizona State University, where I am fortunate to be advised by Dr. [Huan Liu](https://www.public.asu.edu/~huanliu/). My research centers on the development of responsible machine learning algorithms, emphasizing security, robustness, and causality. I am fervent about integrating a causality perspective into responsible ML practices and crafting causal notions of responsible ML. 
 
 
-<p style="color:red;">I am currently on job market for Assistant Professor Position. Please Check out <a href="/files/CV_RM.pdf">my CV</a> and feel free to contact me if you are interested!</p>
-
 
 
 Recent News
 ======
+- [April 2024] My dissertation has won the Dean’s Dissertation Award.
+- [March 2024] I will be joining the department of computer science at Worcester Polytechnic Institute (WPI) as a Tenure Track Assistant Professor .
 - [Feb 2024] I received the SCAI Doctoral Fellowship for Excellent Research.
 - [Jan 2024] 1 paper accepted to PAKDD 2024.
 - [Jan 2024] 1 paper accepted to EACL 2024.
