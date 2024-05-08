@@ -10,7 +10,9 @@ redirect_from:
 
 About Me
 ======
-I am a tenure-track assistant professor of computer science at Worcester Polytechnic Institute (WPI). Prior to that, I obtained my Ph.D. in computer science at Arizona State University, where I was fortunate to be advised by Dr. [Huan Liu](https://www.public.asu.edu/~huanliu/). My research centers on the development of responsible machine learning algorithms, emphasizing security, robustness, and causality. I am fervent about integrating a causality perspective into responsible ML practices and crafting causal notions of responsible ML. 
+I am a tenure-track assistant professor of computer science at Worcester Polytechnic Institute (WPI). Prior to that, I obtained my Ph.D. in computer science at Arizona State University, where I was fortunate to be advised by Dr. [Huan Liu](https://www.public.asu.edu/~huanliu/). Before that, I received my B.S. in computer software engineering from Sharif University of Technology. 
+  My research spans machine learning, artificial intelligence, causal inference, and data mining, with a specific focus on developing trustworthy and responsible machine learning algorithms.  I am also interested in integrating a causality perspective into machine learning, paving the way for the advancement of causal machine learning.
+
 
 
 
