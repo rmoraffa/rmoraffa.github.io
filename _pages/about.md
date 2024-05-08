@@ -19,6 +19,7 @@ My research spans machine learning, artificial intelligence, causal inference, a
 
 Recent News
 ======
+- [May 2024] Invited to serve as a reviewer for NeurIPS 2024.
 - [April 2024] My dissertation has won the Dean’s Dissertation Award.
 - [March 2024] I will be joining the department of Computer Science at Worcester Polytechnic Institute (WPI) as a Tenure Track Assistant Professor .
 - [Feb 2024] I received the SCAI Doctoral Fellowship for Excellent Research.
