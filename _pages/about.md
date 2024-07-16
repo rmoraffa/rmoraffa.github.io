@@ -14,12 +14,13 @@ I am a tenure-track assistant professor of Computer Science at Worcester Polytec
 My research spans machine learning, artificial intelligence, causal inference, and data mining, with a specific focus on developing trustworthy and responsible machine learning algorithms.  I am also interested in integrating a causality perspective into machine learning, paving the way for the advancement of causal machine learning.
 
 
-
+<p style="color: red;"> I'm looking for highly motivated students/interns to join my group. Send me your CV and transcripts if you are interested!</p>
 
 
 Recent News
 ======
-- [July 2024] Invited to give a talk at Causal Inference for Time Series Workshop at UAI.
+- [July 2024] Invited to give a talk at Causal Inference for Time Series Workshop at UAI 2024.
+- [July 2024] Editing a special issue on "Generative Artificial Intelligence (AI) for Cybersecurity". Check out the <a href="[https://www.example.com](https://www.mdpi.com/journal/futureinternet/special_issues/644S30T3GW">CFP!</a>
 - [July 2024] Invited to give a talk at 2024 SIAM Annual Meeting.
 - [May 2024] Invited to serve as a reviewer for NeurIPS 2024.
 - [April 2024] My dissertation has won the Dean’s Dissertation Award.
