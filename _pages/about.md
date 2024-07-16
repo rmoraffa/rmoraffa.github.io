@@ -20,7 +20,7 @@ My research spans machine learning, artificial intelligence, causal inference, a
 Recent News
 ======
 - [July 2024] Invited to give a talk at Causal Inference for Time Series Workshop at UAI 2024.
-- [July 2024] Editing a special issue on "Generative Artificial Intelligence (AI) for Cybersecurity". Check out the <a href="[https://www.example.com](https://www.mdpi.com/journal/futureinternet/special_issues/644S30T3GW">CFP!</a>
+- [July 2024] Editing a special issue on "Generative Artificial Intelligence (AI) for Cybersecurity". Check out the <a href="[https://www.mdpi.com/journal/futureinternet/special_issues/644S30T3GW](https://www.mdpi.com/journal/futureinternet/special_issues/644S30T3GW">CFP!</a>
 - [July 2024] Invited to give a talk at 2024 SIAM Annual Meeting.
 - [May 2024] Invited to serve as a reviewer for NeurIPS 2024.
 - [April 2024] My dissertation has won the Dean’s Dissertation Award.
